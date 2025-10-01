@@ -20,6 +20,20 @@ function App() {
       <p className="read-the-docs">
         Click on the Vite and React logos to learn more
       </p>
+
+      <div class="cep_usuario">
+        <form id="cep" class="form">
+          <div class="input-cep">
+            <label for="cep" class="label">CEP</label>
+            <input>
+            
+            </input>
+          </div>
+        </form>
+        
+      </div>
+
+
     </>
   )
 }
